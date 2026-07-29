@@ -1,4 +1,4 @@
 ---
 layout: "default"
-title: "Class Notes"
+title: "Class Notes 2"
 ---
