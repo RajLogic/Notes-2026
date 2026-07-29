@@ -8,9 +8,9 @@ title: "Index"
   <p style="font-size: 1.1rem; opacity: 0.9; max-width: 600px; margin: 15px auto 0;">
     Class Notes for 2026 Sem 2
   </p>
-</div>
-
-<div class="education-info" style="padding: 20px; text-align: center; margin-bottom: 40px;">
+  <br>
+  <br>
+  <div class="education-info" style="padding: 20px; text-align: center; margin-bottom: 40px;">
   <h3 style="margin-top: 0; color: var(--primary-color);">Bachelor of Information Technology</h3>
   <p style="opacity: 0.9; margin: 5px 0 15px;">Third Year, Semester 2, 2026</p>
   <ul style="list-style: none; padding: 0; display: inline-block; text-align: left;">
@@ -20,3 +20,6 @@ title: "Index"
     <li>💻 Programming Project 1</li>
   </ul>
 </div>
+</div>
+
+
