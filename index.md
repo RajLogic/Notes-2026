@@ -5,9 +5,6 @@ title: "Index"
 
 <div class="welcome-hero" style="padding: 40px 20px; text-align: center; background: linear-gradient(135deg, var(--badge-bg) 0%, transparent 100%); border-radius: 12px; margin-bottom: 40px; border: 1px solid var(--badge-border);">
   <h2 style="font-size: 2.0rem; margin-top: 0; color: var(--primary-color);"> {{ site.title }}</h2>
-  <p style="font-size: 1.1rem; opacity: 0.9; max-width: 600px; margin: 15px auto 0;">
-    Class Notes for 2026 Sem 2
-  </p>
   <br>
   <br>
   <div class="education-info" style="padding: 20px; text-align: center; margin-bottom: 40px;">
