@@ -1,0 +1,18 @@
+title: "My Public Notes"
+subtitle: "Digital Garden"
+description: "A digital garden compiled directly from my Obsidian vault."
+github_repo: "RajLogic/Notes-2026"
+publish_tag: "#public"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .github/
+
+relative_links:
+  enabled: false
