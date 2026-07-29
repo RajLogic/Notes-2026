@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "Index"
+title: "index"
 ---
 
 <div class="welcome-hero" style="padding: 40px 20px; text-align: center; background: linear-gradient(135deg, var(--badge-bg) 0%, transparent 100%); border-radius: 12px; margin-bottom: 40px; border: 1px solid var(--badge-border);">
