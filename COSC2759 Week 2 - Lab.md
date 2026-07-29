@@ -2,7 +2,7 @@
 layout: "default"
 title: "COSC2759 Week 2 - Lab"
 ---
-
+ #devops
 ## Goals
 * Have a basic understanding of DevOps
 * Install the required software for the course
